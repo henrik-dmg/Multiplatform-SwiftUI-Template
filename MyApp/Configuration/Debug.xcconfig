@@ -1,0 +1,11 @@
+//
+//  Common.xcconfig
+//  MyApp
+//
+//  Created by Henrik Panhans on 03.01.23.
+//
+
+// Configuration settings file format documentation can be found at:
+// https://help.apple.com/xcode/#/dev745c5c974
+
+#include "Common.xcconfig"
